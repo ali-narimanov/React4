@@ -1,0 +1,25 @@
+ .btn1{
+    border: solid  rgb(199, 195, 195) 3px;
+    background-color: red;
+    color:white;
+    border-radius: 4px;
+    width: 70px;
+    height: 50px;
+    
+}
+.div1{
+    
+    text-align: center;
+}
+
+.btn2{
+    border: solid  rgb(199, 195, 195) 3px;
+    color: white;
+    background-color:blue;
+    border-radius: 4px;
+    width: 70px;
+    height: 50px;
+    
+}
+
+ 
